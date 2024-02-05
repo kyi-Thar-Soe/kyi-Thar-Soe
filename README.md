@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Kyi Thar Soe</h1>
 <h3 align="center">I am someone who is passionate about creating websites and web applications that are desirable, feasible and viable</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&psig=AOvVaw0MOg1r_lwnNPsp_6hXv332&ust=1707195675295000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjbodC1k4QDFQAAAAAdAAAAABAE" alt="img" width="400" align= "right"/>
+<img src="https://img.freepik.com/free-vector/code-review-concept-illustration_114360-4289.jpg?w=740&t=st=1707110512~exp=1707111112~hmac=71c136e07607b3b8fdc1000259f141b16aa5f492bfc9616063b6ff9635bb0945" alt="img" width="400" align= "right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyi-thar-soe&label=Profile%20views&color=0e75b6&style=flat" alt="kyi-thar-soe" /> </p>
 
